@@ -1,0 +1,86 @@
+Trial License -- for use to evaluate programs for possible purchase as an end-user only.
+
+>> ver
+--------------------------------------------------------------------------------------
+MATLAB Version: 26.1.0.3312084 (R2026a) Update 4
+MATLAB License Number: DEMO
+Operating System: Microsoft Windows 11 Home Single Language Version 10.0 (Build 26200)
+Java Version: Java is not loaded
+--------------------------------------------------------------------------------------
+MATLAB                                                Version 26.1        (R2026a)
+Control System Toolbox                                Version 26.1        (R2026a)
+Signal Processing Toolbox                             Version 26.1        (R2026a)
+Symbolic Math Toolbox                                 Version 26.1        (R2026a)
+
+>> a(2, 3)
+ans =
+
+     9
+
+>> a(2, :)
+ans =
+
+     7     5     9     2
+
+>> a(6)
+ans =
+
+     7
+
+>> a(3, 2:end)
+ans =
+
+     7    -2     0
+
+>> a(1:2, 4:-1:2)
+ans =
+
+     4     2     4
+     2     9     5
+
+>> a([2 2], [2 3])
+ans =
+
+     5     9
+     5     9
+
+>> a > 5
+ans =
+
+  3×4 logical array
+
+   0   0   0   0
+   1   0   1   0
+   0   1   0   0
+
+>> sum(a)
+ans =
+
+     3    16     9     6
+
+>> a(:)
+ans =
+
+     1
+     7
+    -5
+     4
+     5
+     7
+     2
+     9
+    -2
+     4
+     2
+     0
+
+>> [a(1,:), a(2,:)]
+ans =
+
+     1     4     2     4     7     5     9     2
+
+>> [a(1,:); a(2,:)]
+ans =
+
+     1     4     2     4
+     7     5     9     2
