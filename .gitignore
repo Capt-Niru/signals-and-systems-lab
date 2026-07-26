@@ -1,0 +1,14 @@
+# MATLAB
+*.asv
+*.m~
+*.mex*
+octave-workspace
+*.mat
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.swp
