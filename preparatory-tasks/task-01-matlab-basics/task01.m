@@ -1,12 +1,13 @@
-%% Preparatory Task 1 - MATLAB Array & Vector Basics
+%% Preparatory Task 1 
 % Signals and Systems Lab - OUSL
 % Run each section (Ctrl+Enter) and note down the results/explanations.
 
 %% 1. Indexing a matrix
+ 
 a = [1 4 2 4; 7 5 9 2; -5 7 -2 0];
 
-a(2,3)
-a(2,:)
+a(2, 3)
+a(2, :)
 a(6)
 a(3, 2:end)
 a(1:2, 4:-1:2)
@@ -16,7 +17,7 @@ sum(a)
 a(:)
 [a(1,:), a(2,:)]
 [a(1,:); a(2,:)]
-
+-----------------------------------done
 %% 2. Logical comparisons
 a2 = [5 2 3 5 8];
 b2 = [9 2 5 0 8];
