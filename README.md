@@ -16,8 +16,8 @@ Signals and Systems is one of those subjects where the math only clicks once you
 
 | # | Topic | Status | Folder |
 |---|-------|--------|--------|
-| 📝 | Preparatory Task 1 — MATLAB array/vector basics | ⬜Started | [`preparatory-tasks/task-01-matlab-basics`](./preparatory-tasks/task-01-matlab-basics) |
-| 📝 | Preparatory Task 2 — Indexing, conv, control flow | ⬜ Not started | [`preparatory-tasks/task-02-matlab-advanced`](./preparatory-tasks/task-02-matlab-advanced) |
+| 📝 | Preparatory Task 1 — MATLAB array/vector basics | ⬜Done | [`preparatory-tasks/task-01-matlab-basics`](./preparatory-tasks/task-01-matlab-basics) |
+| 📝 | Preparatory Task 2 — Indexing, conv, control flow | ⬜Done | [`preparatory-tasks/task-02-matlab-advanced`](./preparatory-tasks/task-02-matlab-advanced) |
 | 1️⃣ | Introduction to MATLAB | ⬜ Not started | [`session-01-intro-to-matlab`](./session-01-intro-to-matlab) |
 | 2️⃣ | Basic Plotting of Signals | ⬜ Not started | [`session-02-basic-plotting`](./session-02-basic-plotting) |
 | 3️⃣ | Convolution | ⬜ Not started | [`session-03-convolution`](./session-03-convolution) |
