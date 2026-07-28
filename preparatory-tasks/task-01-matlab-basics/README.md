@@ -12,7 +12,7 @@ Warm-up exercises before Session 1, covering array indexing, concatenation, and 
 - `stem` vs `plot` for discrete/continuous signals, and `conv` for convolution
 
 ## Status
-⬜ Started
+⬜ Completed
 
 ## Notes
 _(My observations and answers go here once I run through it.)_
