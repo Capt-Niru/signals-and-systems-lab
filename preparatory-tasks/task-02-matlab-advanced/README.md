@@ -11,7 +11,7 @@ Second warm-up set before Session 1 — a step up in difficulty from Task 1.
 - Sketching signals from a mixed `n`/`x` code fragment
 
 ## Status
-⬜ Not started
+⬜ In the Progress
 
 ## Notes
 _(My observations and answers go here once I run through it.)_
